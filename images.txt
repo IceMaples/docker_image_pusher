@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 jellyfin/jellyfin:10.9.9
+pull ghcr.io/onedr0p/qbittorrent:4.6.5
