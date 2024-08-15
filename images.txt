@@ -7,3 +7,4 @@ xhofe/alist:latest
 jellyfin/jellyfin:10.9.9
 ghcr.io/onedr0p/qbittorrent:4.6.5
 syncthing/syncthing:1.27.10
+zerotier/zerotier:1.14.0
